@@ -70,7 +70,7 @@ document.onkeyup = function(event) {
         }
         return false;
     } else {
-        alert("Oops, we have an error");
+        alert("Error!");
     }
 
 };
